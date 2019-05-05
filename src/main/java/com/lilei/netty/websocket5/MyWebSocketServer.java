@@ -1,6 +1,5 @@
 package com.lilei.netty.websocket5;
 
-import com.lilei.netty.socketEncoding2.MyServerInitializer;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.EventLoopGroup;

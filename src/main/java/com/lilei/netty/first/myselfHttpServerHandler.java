@@ -6,7 +6,6 @@ import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
 import io.netty.handler.codec.http.*;
 import io.netty.util.CharsetUtil;
-import sun.tools.jconsole.inspector.XTable;
 
 import java.nio.ByteBuffer;
 import java.nio.charset.Charset;
